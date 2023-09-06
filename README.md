@@ -3,8 +3,4 @@ Pong: Remake fue hecho en 2018, para la feria cientifica del Liceo Tecnico Profe
 
 # Agradecimientos
 
--Harold Aquino
--Stewar Medrano
--Jose Miguel Peña Rodriguez a.k.a Yomi
--Jose Gabriel Colon
--Hector Acosta a.k.a HektorProfe
+Harold Aquino + Stewar Medrano + Jose Miguel Peña Rodriguez a.k.a Yomi + Jose Gabriel Colon + Hector Acosta a.k.a HektorProfe
